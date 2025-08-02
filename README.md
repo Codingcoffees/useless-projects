@@ -84,23 +84,6 @@ Dataset format showing character, emotion, dialogue, and audio fields
 <img width="1896" height="3837" alt="workflow konai" src="https://github.com/user-attachments/assets/b78d4118-d3fc-4368-b6c9-021eb6466e01" />
 
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
 [Add your demo video link here]
@@ -110,11 +93,8 @@ Dataset format showing character, emotion, dialogue, and audio fields
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
+SATHYAKI VARMA- dataset collection
+GAUTHAM BINU-model training
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
